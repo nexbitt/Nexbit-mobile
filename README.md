@@ -2,7 +2,7 @@
 
 Aplicación móvil del sistema de comercio electrónico RematesPaisa, construida con React Native. Permite a los usuarios explorar productos, gestionar pedidos y recibir notificaciones en tiempo real desde sus dispositivos móviles.
 
-## 🛠️ Requisitos Previos
+## Requisitos Previos
 
 - **Node.js** (v18 o superior)
 - **Git**
@@ -15,7 +15,7 @@ Aplicación móvil del sistema de comercio electrónico RematesPaisa, construida
 
 ---
 
-## 📱 Instalación y Ejecución
+## Instalación y Ejecución
 
 1. Clona el repositorio:
 ```bash
@@ -40,7 +40,7 @@ Aplicación móvil del sistema de comercio electrónico RematesPaisa, construida
 
 ---
 
-## ⚠️ Importante
+## Importante
 
 Asegúrate de tener el backend corriendo antes de iniciar la app. Tu celular y tu PC deben estar conectados a la **misma red WiFi**.
 
